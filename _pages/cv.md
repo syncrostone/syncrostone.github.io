@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+ <embed src="https://syncrostone.github.io/cv.pdf" width="100%" height="850px"/>
+
 <!---Education
 ======
 * B.S. in GitHub, GitHub University, 2012
