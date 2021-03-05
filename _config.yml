@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jasmine Talia Stone"
   avatar           : "profile.png"
-  bio              : "Computational Neuroscientist. Currently an MPhil in Engineering student at Cambridge University, next a Neurobiology & Behavior PhD student at Columbia University."
+  bio              : "Computational Neuroscientist."
   location         : "Cambridge, UK"
   employer         :
   pubmed           : # example: "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
