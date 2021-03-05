@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
- <a href="syncrostone.github.io/cv.pdf" target="_blank">PDF.</a>
+ <!---<a href="{{ site.baseurl }}/cv.pdf" target="_blank">PDF.</a>-->
  <embed src="https://github.com/syncrostone/syncrostone.github.io/raw/master/cv.pdf" width="100%" height="850px"/>
 
 <!---Education
