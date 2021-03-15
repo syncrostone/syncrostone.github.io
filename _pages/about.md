@@ -6,6 +6,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+google-site-verification: "m3PR9wJkfCNrHhGf546pAsCjZX-JP5D-eYvt5Powqyc"
 ---
 
 I am an [MPhil in Engineering](https://www.postgraduate.study.cam.ac.uk/courses/directory/egegmpmeg) student working with [Dr. Guillaume Hennequin](https://ghennequin.github.io/people/hennequin/) for the 2020-21 year, and a member of Churchill College. I am supported by a [Churchill Scholarship](https://www.churchillscholarship.org/). I am broadly interested in motor-control, learning, and memory and am currently working on developing methods for analyzing neural data using Gaussian Process methods.
