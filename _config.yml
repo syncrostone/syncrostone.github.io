@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jasmine Talia Stone"
 title_separator          : "-"
 name                     : &name "Jasmine Talia Stone"
-description              : &description "MPhil in Engineering Student at Cambridge University"
+description              : &description "Incoming Ph.D. Student in Neurobiology & Behavior at Columbia University"
 url                      : https://syncrostone.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "syncrostone.github.io"
@@ -83,11 +83,11 @@ author:
   name             : "Jasmine Stone"
   avatar           : "profile.png"
   bio              : "Computational Neuroscientist."
-  location         : "Cambridge, UK"
+  location         : "New York, NY"
   employer         :
   pubmed           : # example: "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=9wJGGvMAAAAJ&hl=en"
-  email            : "jts58@cam.ac.uk"
+  email            : "jasmine.stone@columbia.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
