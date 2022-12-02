@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-A [Neurobiology and Behavior Ph.D.](https://www.neurosciencephd.columbia.edu/) student at Columbia University, Jasmine is interested in investigating biological algorithms for learning using computational models. She is also interested in developing new machine learning techniques using insights from this work.
+A [Neurobiology and Behavior Ph.D.](https://www.neurosciencephd.columbia.edu/) student with [Ashok Litwin-Kumar](http://lk.zuckermaninstitute.columbia.edu) at Columbia University, Jasmine is interested in investigating biological algorithms for learning using computational models. She is also interested in developing new machine learning techniques using insights from this work.
 
 After receiving a B.S. in Computer Science from Yale University in 2020, Jasmine developed methods for analyzing neural data as a [Churchill Scholar](https://www.churchillscholarship.org/) at the University of Cambridge. In her [Master’s thesis](https://syncrostone.github.io/masters_thesis_scalable-gaussian-rpocess-factor-analysis.pdf) under the supervision of [Dr. Guillaume Hennequin](https://ghennequin.github.io/people/hennequin/), she introduced a technique for scaling Gaussian Process Factor Analysis to data sets one thousand times larger than was previously possible.
 
